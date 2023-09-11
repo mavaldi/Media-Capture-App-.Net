@@ -1,0 +1,17 @@
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\WebCam.exe.config
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\WebCam.exe
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\WebCam.pdb
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.csproj.AssemblyReference.cache
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.Form1.resources
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.Properties.Resources.resources
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.csproj.GenerateResource.cache
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.csproj.CoreCompileInputs.cache
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.exe
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.pdb
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.dll
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.Video.dll
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.xml
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.Video.xml
+C:\Users\maval\source\repos\WebCam\WebCam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\maval\source\repos\WebCam\WebCam\obj\Debug\WebCam.csproj.CopyComplete
